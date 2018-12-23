@@ -1,2 +1,7 @@
 .DS_Store
 .vscode
+*.js linguist-language=python
+
+*.css linguist-language=python
+
+*.html linguist-language=python
